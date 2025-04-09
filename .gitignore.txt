@@ -1,0 +1,32 @@
+## Общие настройки
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider
+.idea/
+*.sln.iml
+
+## Visual Studio Code
+.vscode/
+
+## Логи
+*.log
+logs/
+Log/
+*.nlog
+
+## Системные
+.DS_Store
+Thumbs.db
+
+## Конфигурации
+appsettings.*.json
+secrets.json
+
+## Папка публикации
+publish/
+out/
